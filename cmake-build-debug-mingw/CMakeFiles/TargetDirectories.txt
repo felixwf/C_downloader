@@ -1,0 +1,3 @@
+D:/03_code_learning/FelixDownloader/cmake-build-debug-mingw/CMakeFiles/FelixDownloader.dir
+D:/03_code_learning/FelixDownloader/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/03_code_learning/FelixDownloader/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
